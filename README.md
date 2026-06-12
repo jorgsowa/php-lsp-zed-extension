@@ -1,0 +1,1 @@
+# php-lsp-zed-extension
