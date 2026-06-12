@@ -24,7 +24,7 @@ Add settings to your Zed `settings.json` under the `lsp` key:
   "lsp": {
     "php-lsp": {
       "initialization_options": {
-        "phpVersion": "8.3",
+        "phpVersion": "8.5",
         "excludePaths": ["cache/*", "storage/*"],
         "diagnostics": {
           "deprecatedCalls": false
